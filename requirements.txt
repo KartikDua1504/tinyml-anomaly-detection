@@ -1,0 +1,9 @@
+keras
+tensorflow
+scikit-learn
+numpy 
+pandas 
+matplotlib
+plotext
+platformio
+seaborn
